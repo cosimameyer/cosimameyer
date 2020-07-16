@@ -1,8 +1,23 @@
 ### Hi there 👋
 
-<i class="fa fa-github" aria-hidden="true"></i>
+## What I do 👩🏼‍💻
+
+- 🕊 **Studying conflicts and development worldwide** - I also teach courses in methods and peace and conflict studies at the university. You can find a repository with my teaching material [here](https://github.com/cosimameyer/complexities-in-analyzing-conflict-course-material)
+- 🔦 [**overviewR**](https://github.com/cosimameyer/overviewR) is a neat R package that helps you to get a quick overview of your data
+- 🦠 [**Coro2vid-19**](https://github.com/dennis-hammerschmidt/Coro2vid-19) is a search engine that allows you to search > 20,000 scientific articles on coronaviruses for keywords, titles, and authors to discover relevant research in the field - you can try out the [ShinyApp here](https://cosima-meyer.shinyapps.io/coro2vid-19-shinyapp/)
+- 🤖 [**Telegram bot**](XX) that sends you Machine Learning flashcards every morning and evening in Telegram
+- 👩🏼‍🎨 **TidyTuesday** is like a playground for me to try out new visualizations - you find all my [visualizations here]()
+
+## Where to find me 🌍
+
+- Blogging for [MZES Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 
+- Supporting young scholars in the field of social sciences as a chairwoman at [RAM e.V.](https://ram-ev.de)
+- [Tweet](https://twitter.com/cosima_meyer) 🐥 about what interests me
+- [Posting new projects on my website](https://cosimameyer.github.io) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 💼
+
 
 <!--
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 **cosimameyer/cosimameyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
