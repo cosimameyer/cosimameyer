@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<i class="fa fa-github" aria-hidden="true"></i>
+
 <!--
 **cosimameyer/cosimameyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
