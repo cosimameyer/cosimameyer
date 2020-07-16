@@ -12,7 +12,7 @@
 
 - Blogging for [MZES Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 
 - Supporting young scholars in the field of social sciences as a chairwoman at [RAM e.V.](https://ram-ev.de)
-- [Tweet](https://twitter.com/cosima_meyer) 🐥 about what interests me
+- [Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
 - [Posting new projects on my website](https://cosimameyer.github.io) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 💼
 
 
