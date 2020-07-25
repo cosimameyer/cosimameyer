@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](/img/background_smaller.jpg)
+![image](https://raw.githubusercontent.com/cosimameyer/cosimameyer/master/img/background_smaller.jpg)
 
 ## What I do 👩🏼‍💻
 
