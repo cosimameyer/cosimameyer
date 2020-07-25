@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](/img/background_smaller.png)
+![image](/img/background_smaller.jpg)
 
 ## What I do 👩🏼‍💻
 
