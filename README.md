@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](/img/background.png)
+
+
 ## What I do 👩🏼‍💻
 
 - 🕊 **Studying conflicts and development worldwide** - I also teach courses in computational social sciences and peace and conflict studies at the university. You can find a repository with my teaching material [here](https://github.com/cosimameyer/complexities-in-analyzing-conflict-course-material)
