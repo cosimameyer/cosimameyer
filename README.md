@@ -4,7 +4,7 @@
 
 ## What I do 👩🏼‍💻
 
-- 🕊 **Studying conflicts and development worldwide** - I also teach courses in computational social sciences and peace and conflict studies at the university. You can find a repository with my teaching material [here](https://github.com/cosimameyer/complexities-in-analyzing-conflict-course-material) 👩🏼‍🏫 and material for a ShinyApp that I created [here](https://github.com/cosimameyer/conflict-elections) ✨
+- 🕊 **Studying conflicts and development worldwide** - I also teach courses in computational social sciences and peace and conflict studies at the university. You can find a repository with my teaching material [here](https://github.com/cosimameyer/complexities-in-analyzing-conflict-course-material) 👩🏼‍🏫 and material for a [ShinyApp](https://github.com/cosimameyer/conflict-elections) that I created ✨
 - 🔦 [**overviewR**](https://github.com/cosimameyer/overviewR) is a neat CRAN package that helps you to get a quick overview of your data
 - 🦠 [**Coro2vid-19**](https://github.com/dennis-hammerschmidt/Coro2vid-19) is a search engine that allows you to search > 20,000 scientific articles on coronaviruses for keywords, titles, and authors to discover relevant research in the field - you can try out the [ShinyApp here](https://cosima-meyer.shinyapps.io/coro2vid-19-shinyapp/)
 - 🤖 [**Telegram bot**](https://github.com/dennis-hammerschmidt/telegram-bot) that sends you flashcards every morning and evening in Telegram using Python and AWS Lambda
