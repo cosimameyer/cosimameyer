@@ -9,7 +9,7 @@
 - 🦠 [**Coro2vid-19**](https://github.com/dennis-hammerschmidt/Coro2vid-19) is a search engine that allows you to search > 20,000 scientific articles on coronaviruses for keywords, titles, and authors to discover relevant research in the field - you can try out the [ShinyApp here](https://cosima-meyer.shinyapps.io/coro2vid-19-shinyapp/)
 - 🤖 [**Telegram bot**](https://github.com/dennis-hammerschmidt/telegram-bot) that sends you flashcards every morning and evening in Telegram using Python and AWS Lambda
 - 👩🏼‍🎨 [**TidyTuesday**](https://github.com/cosimameyer/TidyTuesday) is like a playground for me to try out something new
-- 👩🏼‍💻 Give talks and workshops about [**ShinyApps**](https://github.com/cosimameyer/conflict-elections) and [**NLP**](https://github.com/cosimameyer/nlp-rladies-bergen) 
+- 👩🏼‍💻 Give talks and workshops about [**ShinyApps**](https://github.com/cosimameyer/conflict-elections), [**NLP**](https://github.com/cosimameyer/nlp-rladies-bergen), and [**package development**](https://gess.uni-mannheim.de/doctoral-programs/business-cdsb.html) 
 
 ## Where to find me 🌍
 
