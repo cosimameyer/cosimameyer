@@ -20,6 +20,6 @@
 - [Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
 - [Posting new projects on my website](https://cosimameyer.rbind.io) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼
 
-## Blog posts
+## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
