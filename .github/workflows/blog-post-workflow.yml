@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: cosimameyer/.github/workflows/blog-post-workflow@master
+      - name: Pull in posts
+        uses: cosimameyer/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@cosimameyer,https://cosimameyer.rbind.io/category/python-post/index.xml,https://cosimameyer.rbind.io/category/r-post/index.xml"
