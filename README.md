@@ -22,7 +22,7 @@
 
 ## Latest blog posts 📝
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/5" alt="Recent Article 5"> 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
