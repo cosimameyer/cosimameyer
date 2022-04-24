@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: "https://medium.com/feed/@cosimameyer,https://cosimameyer.rbind.io/category/python-post/index.xml,https://cosimameyer.rbind.io/category/r-post/index.xml"
+          feed-url: https://medium.com/feed/@cosimameyer
           readme-section: feed
           template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
