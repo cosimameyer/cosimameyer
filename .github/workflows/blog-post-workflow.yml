@@ -8,4 +8,6 @@ jobs:
     steps:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://dev.to/feed/gautamkrishnar
+          feed-url: https://medium.com/feed/@cosimameyer
+          commit_message: "Update blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
