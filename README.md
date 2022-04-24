@@ -22,7 +22,9 @@
 
 ## Latest blog posts 📝
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/5" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/1" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/2" alt="Recent Article 5"> 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
