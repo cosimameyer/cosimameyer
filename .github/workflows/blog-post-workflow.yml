@@ -6,7 +6,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed-url: https://medium.com/feed/@cosimameyer
           readme-section: feed
