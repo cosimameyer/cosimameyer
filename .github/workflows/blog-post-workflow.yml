@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://medium.com/feed/@cosimameyer
+          feed-url: https://dev.to/feed/gautamkrishnar
