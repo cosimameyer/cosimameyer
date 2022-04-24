@@ -1,15 +1,13 @@
-name: Latest blog post workflow
-on:
+name: Update readme with blog posts
+on: 
   push
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in posts
-        uses: cosimameyer/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://medium.com/feed/@cosimameyer,https://cosimameyer.rbind.io/category/python-post/index.xml,https://cosimameyer.rbind.io/category/r-post/index.xml"
+          feed-url: "https://medium.com/feed/@cosimameyer,https://cosimameyer.rbind.io/category/python-post/index.xml,https://cosimameyer.rbind.io/category/r-post/index.xml"
+          readme-section: feed
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
