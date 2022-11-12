@@ -13,12 +13,24 @@
 
 ## Where to find me 🌍
 
-- Blogging about data science at [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 👾
+This is where you can easily reach me:
+
+<a href="https://cosimameyer.com"><img src="https://github.com/cosimameyer/cosimameyer/blob/master/img/featured.png" data-canonical-src="https://cosimameyer.com" width="50" height="50" /></a>
+<a href="https://mas.to/@cosima_meyer"><img src="https://github.com/cosimameyer/cosimameyer/blob/master/img/Mastodon_Logotype.png" data-canonical-src="https://mas.to/@cosima_meyer" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/cosimameyer/"><img src="https://github.com/cosimameyer/cosimameyer/blob/master/img/linkedin.svg" data-canonical-src="https://www.linkedin.com/in/cosimameyer/" width="50" height="50" /></a> 
+
+And these are projects to which I love contributing: 
+
+<a href="https://linktr.ee/rladies_cologne"><img src="https://github.com/rladiescologne/.github/blob/main/profile/R-Ladies_Cologne.png" data-canonical-src="https://linktr.ee/rladies_cologne" width="55" height="70" /></a>
+<a href="https://correlaid.org/"><img src="https://i.imgur.com/2bjkz4f.png" data-canonical-src="https://correlaid.org/" width="60" height="50" /></a>
+<a href="https://www.mzes.uni-mannheim.de/socialsciencedatalab/"><img src="https://github.com/SocialScienceDataLab/.github/blob/main/DMU-logo.png" data-canonical-src="https://www.mzes.uni-mannheim.de/socialsciencedatalab/" width="50" height="60" /></a>
+
+<!--- - Blogging about data science at [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 👾
 - Co-organizing [R-Ladies Cologne](https://linktr.ee/rladies_cologne) 💜
 - Data for good @ [CorrelAid](https://correlaid.org/)
 - Supporting young scholars in the field of social sciences as a chairwoman at [RAM e.V.](https://www.ram-ev.de) 🎓
-- [Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
-- [Posting new projects on my website](https://cosimameyer.rbind.io) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼
+[Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
+- [Posting new projects on my website](https://cosimameyer.com) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼-->
 
 ## Latest blog posts 📝
 
