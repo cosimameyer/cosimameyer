@@ -14,6 +14,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=illustrations)](https://github.com/cosimameyer/illustrations)
 
 ### Giving talks and workshops 👩🏼‍💻
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=r-python-talk)](https://github.com/cosimameyer/r-python-talk)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=conflict-elections)](https://github.com/cosimameyer/conflict-elections)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=nlp-talk)](https://github.com/cosimameyer/nlp-talk)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=writing_packages)](https://github.com/cosimameyer/writing_packages)
