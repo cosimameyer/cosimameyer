@@ -52,6 +52,7 @@ And these are projects to which I love contributing:
 [Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
 - [Posting new projects on my website](https://cosimameyer.com) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼-->
 
+
 ## Latest blog posts 📝
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0" alt="Recent Article 0"> 
