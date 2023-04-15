@@ -41,6 +41,9 @@ And these are projects to which I love contributing:
 <a href="https://linktr.ee/rladies_cologne"><img src="https://github.com/rladiescologne/.github/blob/main/profile/R-Ladies_Cologne.png" data-canonical-src="https://linktr.ee/rladies_cologne" width="55" height="70" /></a>
 <a href="https://correlaid.org/"><img src="https://i.imgur.com/2bjkz4f.png" data-canonical-src="https://correlaid.org/" width="60" height="50" /></a>
 <a href="https://www.mzes.uni-mannheim.de/socialsciencedatalab/"><img src="https://github.com/SocialScienceDataLab/.github/blob/main/DMU-logo.png" data-canonical-src="https://www.mzes.uni-mannheim.de/socialsciencedatalab/" width="50" height="60" /></a>
+<a href="https://botsin.space/@pyladies_bot"><img src="https://files.botsin.space/accounts/avatars/109/926/714/108/987/744/original/e868ce8f58d6903f.png" data-canonical-src="https://botsin.space/@pyladies_bot" width="60" height="60" /></a>
+<a href="https://botsin.space/@rladies_bot"><img src="https://files.botsin.space/accounts/avatars/109/925/541/689/479/846/original/d27ddb4245ec2a15.png" data-canonical-src="https://botsin.space/@rladies_bot" width="60" height="60" /></a>
+
 
 <!--- - Blogging about data science at [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 👾
 - Co-organizing [R-Ladies Cologne](https://linktr.ee/rladies_cologne) 💜
