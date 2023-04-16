@@ -6,6 +6,7 @@
 
 ### My projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=overviewR)](https://github.com/cosimameyer/overviewR)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=awesome-pyladies-blogs)](https://github.com/cosimameyer/awesome-pyladies-blogs)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dennis-hammerschmidt&repo=Coro2vid-19)](https://github.com/dennis-hammerschmidt/Coro2vid-19)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dennis-hammerschmidt&repo=telegram-bot)](https://github.com/dennis-hammerschmidt/telegram-bot)
   
