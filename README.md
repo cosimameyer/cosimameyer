@@ -45,22 +45,9 @@ And these are projects to which I love contributing:
 <a href="https://botsin.space/@pyladies_bot"><img src="https://files.botsin.space/accounts/avatars/109/926/714/108/987/744/original/e868ce8f58d6903f.png" data-canonical-src="https://botsin.space/@pyladies_bot" width="60" height="60" /></a>
 <a href="https://botsin.space/@rladies_bot"><img src="https://files.botsin.space/accounts/avatars/109/925/541/689/479/846/original/d27ddb4245ec2a15.png" data-canonical-src="https://botsin.space/@rladies_bot" width="60" height="60" /></a>
 
-
-<!--- - Blogging about data science at [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 👾
-- Co-organizing [R-Ladies Cologne](https://linktr.ee/rladies_cologne) 💜
-- Data for good @ [CorrelAid](https://correlaid.org/)
-- Supporting young scholars in the field of social sciences as a chairwoman at [RAM e.V.](https://www.ram-ev.de) 🎓
-[Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
-- [Posting new projects on my website](https://cosimameyer.com) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼-->
-
-
 ## Latest blog posts 📝
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/2" alt="Recent Article 2"> 
-<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3" alt="Recent Article 3"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/4" alt="Recent Article 4"> -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3" alt="Recent Article 3"> 
