@@ -40,6 +40,7 @@ This is where you can easily reach me:
 
 And these are projects to which I love contributing: 
 
+<a href=https://rladies.org"><img src="https://rladies.org/images/logo.png" data-canonical-src="https://rladies.org" width="55" height="70" /></a>
 <a href="https://linktr.ee/rladies_cologne"><img src="https://github.com/rladiescologne/.github/blob/main/profile/R-Ladies_Cologne.png" data-canonical-src="https://linktr.ee/rladies_cologne" width="55" height="70" /></a>
 <a href="https://correlaid.org/"><img src="https://i.imgur.com/2bjkz4f.png" data-canonical-src="https://correlaid.org/" width="60" height="50" /></a>
 <a href="https://www.mzes.uni-mannheim.de/socialsciencedatalab/"><img src="https://github.com/SocialScienceDataLab/.github/blob/main/DMU-logo.png" data-canonical-src="https://www.mzes.uni-mannheim.de/socialsciencedatalab/" width="50" height="60" /></a>
