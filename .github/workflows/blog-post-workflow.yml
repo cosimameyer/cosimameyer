@@ -1,12 +1,11 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # At 00:00 on day-of-month 1.
     - cron: '0 0 1 * *'
-  workflow_dispatch: # Allows you to run it manually from the "Actions" tab
+  workflow_dispatch:
 
 permissions:
-  contents: write # Essential for committing changes to a protected branch
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -14,19 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4 # Updated to v4 for latest security/speed
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BLOG_TOKEN }} # Uses your VIP pass to checkout
 
       - name: Pull in cosimameyer.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Replace with your specific feed if you have a /blog/index.xml
+          gh_token: ${{ secrets.BLOG_TOKEN }} # Uses your VIP pass to push
           feed_list: "https://cosimameyer.com/index.xml"
           max_post_count: 5
-          
-          # Custom formatting: Bullet point - [Title](URL) (Date)
           template: "$newline- [$title]($url) ($date)"
-          
-          # Handling the commit
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
-          commit_message: "chore: update latest blog posts"
