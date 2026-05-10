@@ -33,6 +33,9 @@ I love speaking at the intersection of technology and society. My recent session
 ### 📝 Latest Insights
 *These posts are automatically synced from my [personal blog](https://cosimameyer.com/post/):*
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🌍 Communities & Contributions
