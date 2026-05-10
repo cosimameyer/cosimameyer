@@ -24,9 +24,9 @@ I love speaking at the intersection of technology and society. My recent session
 
 | Software & Packages | Visuals & Education |
 | :--- | :--- |
-| [![overviewR](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=overviewR)](https://github.com/cosimameyer/overviewR) | [![TidyTuesday](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=TidyTuesday)](https://github.com/cosimameyer/TidyTuesday) |
-| [![overviewpy](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=overviewpy)](https://github.com/cosimameyer/overviewpy) | [![illustrations](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=illustrations)](https://github.com/cosimameyer/illustrations) |
-| [![nlp-talk](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=nlp-talk)](https://github.com/cosimameyer/nlp-talk) | [![writing_packages](https://github-readme-stats.vercel.app/api/pin/?username=cosimameyer&repo=writing_packages)](https://github.com/cosimameyer/writing_packages) |
+| **[overviewR](https://github.com/cosimameyer/overviewR)** <br> ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) A tool to help you get a quick overview of your data. | **[TidyTuesday](https://github.com/cosimameyer/TidyTuesday)** <br> Weekly data visualizations and experimental code. |
+| **[overviewpy](https://github.com/cosimameyer/overviewpy)** <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) The Python counterpart for data overviews. | **[Illustrations](https://github.com/cosimameyer/illustrations)** <br> Visual representations of technical concepts. |
+| **[NLP Talk](https://github.com/cosimameyer/nlp-talk)** <br> Resources and code for explainable NLP. | **[Writing Packages](https://github.com/cosimameyer/writing_packages)** <br> Workshops on building robust software. |
 
 ---
 
