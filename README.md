@@ -34,11 +34,11 @@ I love speaking at the intersection of technology and society. My recent session
 *These posts are automatically synced from my [personal blog](https://cosimameyer.com/post/):*
 
 <!-- BLOG-POST-LIST:START -->
+- [Updating My Gallery](https://cosimameyer.com/post/updating-my-gallery/) (Wed May 27 2026 12:00 AM)
+- [Community Bots: Giving Underrepresented Voices an Automated Megaphone](https://cosimameyer.com/post/community-bots-giving-underrepresented-voices-an-automated-megaphone/) (Sat May 16 2026 12:00 AM)
 - [Newest Features in overviewR](https://cosimameyer.com/post/newest-features-in-overviewr/) (Sat May 09 2026 12:00 AM)
 - [Google I/O Connect 2025](https://cosimameyer.com/post/google-io-connect-2025/) (Tue Jul 08 2025 12:00 AM)
-- [My Conference Journey - What I&#39;ve Learned About Submitting and Reviewing Talks](https://cosimameyer.com/post/submitting-reviewing-talks-insights/) (Thu Jul 03 2025 12:00 AM)
-- [Are AI Models Hallucinating—Or Just Confabulating?](https://cosimameyer.com/post/are-ai-models-hallucinating-or-just-confabulating/) (Tue Jun 10 2025 12:00 AM)
-- [Moral AI: A Book Review](https://cosimameyer.com/post/moral-ai-a-book-review/) (Mon Feb 17 2025 12:00 AM)<!-- BLOG-POST-LIST:END -->
+- [My Conference Journey - What I&#39;ve Learned About Submitting and Reviewing Talks](https://cosimameyer.com/post/submitting-reviewing-talks-insights/) (Thu Jul 03 2025 12:00 AM)<!-- BLOG-POST-LIST:END -->
 
 ---
 
